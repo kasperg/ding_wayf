@@ -14,8 +14,5 @@ projects[ding_base][download][tag] = "7.x-1.0"
 
 projects[ding_base][type] = "module"
 projects[ding_base][download][type] = "git"
-
-projects[ding_base][type] = "module"
-projects[ding_base][download][type] = "git"
 projects[ding_base][download][url] = "git@github.com:ding2tal/ding_base.git"
-projects[ding_base][download][tag] = "7.x-1.0"
+projects[ding_base][download][download][branch] = "development"
